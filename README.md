@@ -6,6 +6,8 @@ This platform saves businesses time and money by eliminating the need to manuall
 
 You can check out **Invoice Intel** [here](https://invoiceintel.io)
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/5868a7cb-7466-4598-aef0-9e5fb012a23e" />
+
 ## Key Features
 
 - **Automated Data Extraction**:  
@@ -49,5 +51,3 @@ Go back in time and scan all your past invoices into Invoice Intel AI. No subscr
 
 - **CI/CD & Monitoring**:  
   - GitHub Actions for continuous integration and deployment
- 
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/5868a7cb-7466-4598-aef0-9e5fb012a23e" />
